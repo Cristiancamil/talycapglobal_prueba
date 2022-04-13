@@ -1,0 +1,27 @@
+-----------Instructivo para ejecutar el proyecto alycapglobal_prueba.rar------------
+
+-------------
+|Ejercicio 1|
+-------------
+
+Cuando seleccione el botón ejecicio 1, se habilitará un input, donde se ingresan los digitos solo 1 y cero, también se habilitan 3 botones:
+
+	1. Plus: para agregar a la lista, los digitos.
+
+	2. - : para eliminar un digito seleccionado.
+
+	3. Save: Guardar los digitos y consultar.
+	
+	4. Ventana de dialogo: Que le pedirá ingresar el número de días.
+
+
+-------------
+|Ejercicio 2|
+-------------
+
+Cuando se seleccione el botón ejercicio 2, aparecera una ventana de dialogo que le pedirá que ingrese la cadena de texto para permutar.
+
+
+
+
+Nota: Todos los resultados se visualizán en el area izquierda.
